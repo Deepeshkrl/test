@@ -1,0 +1,11 @@
+.view_name {
+    color: #0000ff;
+}
+
+.button {
+    width: 70px;
+    height: 30px;
+    background-color: #ffff00;
+    color: #0000ff;
+    border: solid 1px #ff00ff;
+}
